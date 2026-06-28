@@ -145,7 +145,7 @@ streamlit run app.py
 
 **Streamlit App**
 
-https://your-streamlit-app.streamlit.app
+https://ai-business-dashboard-ius7y4bs4bv96gt8qpver4.streamlit.app/
 
 ---
 
