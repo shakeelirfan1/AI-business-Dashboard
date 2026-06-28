@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large model file
+sales_prediction_model.pkl
+
+# Optional
+.env
